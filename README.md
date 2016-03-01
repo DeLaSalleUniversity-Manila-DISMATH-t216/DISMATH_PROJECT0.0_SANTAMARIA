@@ -5,7 +5,7 @@
 ## DESIGNER SCREENSHOTS
 ![ScreenShot](START1.jpg)  
 ![ScreenShot](SCREEN1.jpg)
-![ScreenShot](SCREEN2.Jpg)
+![ScreenShot](SCREEN2.jpg)
 ![ScreenShot](SCREEN3.jpg)
 
 # BLOCK SCREENSHOTS
