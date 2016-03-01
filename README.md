@@ -10,6 +10,6 @@
 
 # BLOCK SCREENSHOTS
 ![ScreenShot](START2.jpg)
-![ScreenShot](SCREEN1x.jpg)
-![ScreenShot](SCREEN2x.jpg)
-![ScreenShot](Screen3x.jpg)
+![ScreenShot](SCREEN1X.jpg)
+![ScreenShot](SCREEN2X.jpg)
+![ScreenShot](Screen3X.jpg)
